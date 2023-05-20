@@ -1,0 +1,105 @@
+body{
+    background-color: royalblue;
+}
+.button-block-1{
+    width: 750px;
+    margin: 50px auto;
+}
+.button-block-2{
+    width: 750px;
+    margin: 50px auto;
+}
+.button-item-1{
+    width: 200px;
+    height: 70px;
+    border: 3px solid orangered;
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: orangered;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button-item-2{
+    width: 200px;
+    height: 70px;
+    border: 3px solid #34c9eb;
+    border-radius: 30px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: white;
+    background-color: #34c9eb;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button-item-3{
+    width: 200px;
+    height: 70px;
+    border: 3px solid aqua;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: white;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button-item-4{
+    width: 200px;
+    height: 70px;
+    border: 3px solid greenyellow;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: white;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button-item-5{
+    width: 200px;
+    height: 70px;
+    border: 3px solid rebeccapurple;
+    background-color: royalblue;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: rebeccapurple;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
+.button-item-6{
+    width: 200px;
+    height: 70px;
+    border: 3px solid green;
+    background-color: royalblue;
+    border-radius: 30px;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    color: green;
+    margin: 0 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+}
